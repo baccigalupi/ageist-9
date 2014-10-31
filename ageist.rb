@@ -1,5 +1,4 @@
 
-
 age = rand(111)
 puts "Age is #{age} where #{age} is a random number between 0 and 110"
 
